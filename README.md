@@ -1,2 +1,10 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+Article I found: [How Sprinting Slows You Down: A Better Way to Build Software](https://thenewstack.io/how-sprinting-slows-you-down-a-better-way-to-build-software/)
+
+The article **"How Sprinting Slows You Down: A Better Way to Build Software"** by **AJ Shankar** discusses the drawbacks of using sprints in software development, a short and fixed period during scrum and agile methodologies where the problem gets broken down into smaller tasks. Shankar argues that while sprints can drive short-term productivity, they may also lead to rushed decisions and suboptimal code quality due to the constant pressure to meet deadlines. As an alternative,Shankar suggests that a more sustainable approach to software development is considering longer-term impacts and promoting practices that maintain high code quality over speed.
+
+I found this article to be interesting because it challenges the widely accepted Agile practice of sprints, which is popular in many software development environments. The notion that something designed to enhance productivity could actually be detrimental is intriguing and prompts a reevaluation of an established practice. By suggesting another approach, Shankar opens the door to discussions about other methods that might better balance speed and quality, allowing readers to developt new perspectives on project management and team dynamics.
+
+# Comment 
+David Lai: 
+I agree with the author that sprints can be counterproductive in the long run. Rushing through decisions, which I admitdly tend to practice, can lead to suboptimal quality. As we shift to web3, more stable and thoughtful solutions are often preferred. Considering longer-term impacts and practicing high code quality typically lead to better project and development management. Loved this article!
